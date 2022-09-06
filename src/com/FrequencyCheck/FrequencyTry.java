@@ -1,5 +1,5 @@
 package com.FrequencyCheck;
-
+//trying gitbash n git
 //frequency of each character from string
 import java.util.HashMap;
 import java.util.Scanner;
