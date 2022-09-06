@@ -10,7 +10,7 @@ public class haspmaptry {
 
 	public static void main(String[] args) {
 
-		String name = "SSRRIIYAAA";
+		String name = "SSRRIIYAAAAAAAA";
 		name = name.replaceAll("\\s", "");
 		name = name.toLowerCase();
 		// System.out.println(name);
